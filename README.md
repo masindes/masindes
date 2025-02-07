@@ -3,7 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/m-sylvester-9bb732251/)  
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:Watty.s@outlook.com)  
 
-I’m a **passionate Junior Developer** with expertise in **JavaScript**, **TypeScript**, **Python**, and **Flask**. I love building scalable systems, designing intuitive user interfaces, and solving real-world problems through clean, efficient code. I also have a knack for **UI/UX design**, using tools like **Figma** and **Adobe XD** to create seamless, user-friendly experiences.  
+I’m a **passionate Junior Developer** with expertise in **JavaScript**, **TypeScript**, **Python**, and **Flask**. 
+I love building scalable systems, designing intuitive user interfaces, and solving real-world problems through clean, 
+efficient code. I also have a knack for **UI/UX design**, using tools like **Figma** and **Adobe XD** to create seamless, 
+user-friendly experiences.  
 
 ---
 
@@ -83,4 +86,4 @@ When I'm not coding, I enjoy sketching and exploring new design trends to inspir
 
 ---
 
-⭐️ From [Masinde Sylvester](https://github.com/yourusername)  
+⭐️ From [Masinde Sylvester](https://github.com/masinces)  
