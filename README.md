@@ -77,7 +77,7 @@ user-friendly experiences.
 ## 📫 Let's Connect!  
 - **Email**: [Watty.s@outlook.com](mailto:Watty.s@outlook.com)  
 - **LinkedIn**: [Masinde Sylvester](https://www.linkedin.com/in/m-sylvester-9bb732251/)  
-- **Portfolio**: [Masinde Sylvester](portfolio-pied-psi-60.vercel.app)  
+- **Portfolio**: [Masinde Sylvester](https://portfolio-qdmm.vercel.app/)  
 
 ---
 
